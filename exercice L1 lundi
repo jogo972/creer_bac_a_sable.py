@@ -1,0 +1,4 @@
+print("Bonjour Alice, il fait beau à Angers aujourdhui ?")
+print(17//5)
+F = float(input("Température en Celsius : ")) 
+print(F * 9 / 5 + 32)
